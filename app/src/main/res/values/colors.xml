@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     
     <color name="body_bg_color">#FFF2F8FD</color>
+    <color name="indigo">#FF3E4685</color>
 </resources>

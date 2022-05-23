@@ -8,7 +8,7 @@ import androidx.navigation.NavController
 fun Home(
     navController: NavController? = null,
 ) {
-
+// TODO: Start Home Screen ui coding.
 }
 
 @Preview

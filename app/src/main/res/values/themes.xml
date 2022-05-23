@@ -4,4 +4,11 @@
     <style name="Theme.HiraRiaz" parent="android:Theme.Material.Light.NoActionBar">
         <item name="android:statusBarColor">@color/body_bg_color</item>
     </style>
+
+    <style name="Theme.HiraRiazSplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/body_bg_color</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_logo_24</item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/indigo</item>
+        <item name="postSplashScreenTheme">@style/Theme.HiraRiaz</item>
+    </style>
 </resources>
