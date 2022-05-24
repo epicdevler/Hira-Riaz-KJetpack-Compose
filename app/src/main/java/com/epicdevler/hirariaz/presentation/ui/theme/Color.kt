@@ -9,4 +9,5 @@ val Teal200 = Color(0xFF03DAC5)
 
 val BodyBackground = Color(0xFFF2F8FD)
 val Indigo = Color(0xFF3E4685)
+val BlueGray = Color(0xFF464B70)
 val Gray = Color(0xFF86888C)
