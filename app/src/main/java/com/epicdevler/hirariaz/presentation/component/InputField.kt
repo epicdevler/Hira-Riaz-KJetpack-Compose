@@ -65,7 +65,7 @@ fun InputField(
     }
 
     ElevatedCard(
-        shape = RoundedCornerShape(18.dp),
+        shape = RoundedCornerShape(22.dp),
         colors = CardDefaults.cardColors(
             containerColor = Color.White,
         ),
