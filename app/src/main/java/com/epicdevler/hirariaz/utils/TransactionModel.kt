@@ -1,7 +1,5 @@
 package com.epicdevler.hirariaz.utils
 
-import java.util.*
-
 data class TransactionModel(
     val type: TransactionType,
     val info: String,
@@ -9,6 +7,6 @@ data class TransactionModel(
     val currencySign: String,
 )
 
-enum class TransactionType{
-    Sent, Received, Loan
+enum class TransactionType {
+    Sent, Received, Loan, Payment
 }
